@@ -1,5 +1,5 @@
 name: myapp
-replicaCount: 1
+replicaCount: 2
 
 image:
   repository: nanajanashia/argocd-app
