@@ -1,4 +1,4 @@
-name: myapp
+name: myapp-first
 replicaCount: 2
 
 image:
