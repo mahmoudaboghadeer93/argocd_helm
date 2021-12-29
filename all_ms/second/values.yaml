@@ -1,4 +1,4 @@
-name: myapp_second
+name: myapp-second
 replicaCount: 2
 
 image:
