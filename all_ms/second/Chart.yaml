@@ -1,5 +1,5 @@
 apiVersion: v2
-name: argochart-2
+name: argochart
 description: A Helm chart for Kubernetes
 
 type: application
