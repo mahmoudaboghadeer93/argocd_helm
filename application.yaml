@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL:https://github.com/mahmoudaboghadeer93/argocd_helm.git
+    repoURL: https://github.com/mahmoudaboghadeer93/argocd_helm.git
     targetRevision: HEAD
     path: all_ms
   destination: 
