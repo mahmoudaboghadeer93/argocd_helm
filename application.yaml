@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/mahmoudaboghadeer93/argocd_helm.git
     targetRevision: HEAD
-    path: all_ms
+    path: ms
   destination: 
     server: https://kubernetes.default.svc
     namespace: qa
